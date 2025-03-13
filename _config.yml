@@ -1,9 +1,0 @@
-title: "Mi Blog en GitHub Pages"
-description: "Bienvenido a mi blog personal sobre desarrollo y tecnología"
-author: "Antonio Gallardo García"
-baseurl: ""  # Dejar vacío si el sitio está en la raíz
-url: "https://tuusuario.github.io"
-theme: minima  # Puedes cambiar el tema
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
